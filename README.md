@@ -1,4 +1,4 @@
-# CSE 5700(Compilers) Lab 2
+# CSE 5700(Compilers) Lab 3
 
 A recursive decent parser that parses the given grammar in C.
 
